@@ -1,4 +1,4 @@
-# 🔮 Analisis Perbandingan Model Multivariate ARIMA dan Fuzzy Multi-Factor Time Series dalam Peramalan Harga Emas di Indonesia
+# 🔮 AuCast: Analisis Perbandingan Model Multivariate ARIMA dan Fuzzy Multi-Factor Time Series dalam Peramalan Harga Emas di Indonesia
 
 ## 📘 Deskripsi Proyek
 
